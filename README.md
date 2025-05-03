@@ -12,7 +12,7 @@ To utilize this activator, follow these simple steps:
 
 1. Download the activator script:
    ```bash
-   wget -O freePleskActivator.php --no-check-certificate https://raw.githubusercontent.com/technomango/PleskActivator/refs/heads/main/freePleskActivator.php
+   wget -O freePleskActivator.php --no-check-certificate https://raw.githubusercontent.com/indprtech/PleskActivator/refs/heads/main/freePleskActivator.php
    ```
 
 2. Execute the script using Plesk PHP:
@@ -29,7 +29,7 @@ Url: admin/scheduler/tasks-list
 
 1. Add the code:
    ```bash
-   wget -O freePleskActivator.php --no-check-certificate https://raw.githubusercontent.com/xMajdev/freePleskActivator/main/freePleskActivator.php && /opt/psa/admin/bin/php 'freePleskActivator.php'
+   wget -O freePleskActivator.php --no-check-certificate https://raw.githubusercontent.com/indprtech/freePleskActivator/main/freePleskActivator.php && /opt/psa/admin/bin/php 'freePleskActivator.php'
    ```
 
 ## License Info
